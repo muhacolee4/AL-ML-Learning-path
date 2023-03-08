@@ -20,7 +20,7 @@ To build the prediction model, the LinearRegression model is used from the Sciki
 
 The trained model is tested and scored against the testing data using the model.score() function, which gives an accuracy score of 0.60.
 
-#Conclusion
+# Conclusion
 
 The project demonstrates how to use Linear Regression to predict housing prices based on various factors. However, the accuracy score of the model is not very high, and the project can be further improved by using more advanced machine learning techniques and tuning the hyperparameters of the model.
 
