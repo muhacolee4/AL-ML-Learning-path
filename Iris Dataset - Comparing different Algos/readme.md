@@ -1,4 +1,4 @@
-![Image of the correlation plot ]('comparing iris dataset.png')
+![Image of the correlation plot ](https://github.com/muhacolee4/AL-ML-Learning-path/blob/main/Iris%20Dataset%20-%20Comparing%20different%20Algos/comparing%20iris%20dataset.png)
 
 # Introduction
 This project presents the performance evaluation of five machine learning algorithms on the Iris flower dataset. The aim of this study is to compare the classification accuracy of Decision Tree, Gaussian Naive Bayes, K-Nearest Neighbors, Random Forest, and Support Vector Machine algorithms on the Iris dataset.
