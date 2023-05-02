@@ -21,7 +21,10 @@ The code then transforms the text data to feature vectors that can be used as in
 # Training the Model
 The code trains a Logistic Regression model with the training data, and then evaluates the model's accuracy on both the training and test data.
 
-Building a Predictive System
+# Model Evaluation 
+The model performed very well with an accuracy of 0.967 but it seems to overfits.
+
+# Building a Predictive System
 Finally, the code includes a sample input email to demonstrate how the model can be used to predict whether an email is spam or not.
 
 To use this code, you can replace the input email with your own text and run the code to see whether it is classified as spam or ham.
